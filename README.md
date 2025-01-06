@@ -22,13 +22,13 @@ You can click the Preview link to take a look at your changes.
   <h2>⚡️ A Few Quick Facts <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px >  </h2> 
   <ul>
 <!--     <li>👋 Hi, I’m Aashish Dhiman.</li> -->
-    <li>👀 I’m a Web Development enthusiast.</li>
-    <li>📖 I’m currently learning Full Stack Web Development.</li>
+    <li>👀 I’m a DevOps enthusiast.</li>
+    <li>📖 I’m currently learning Kubernetes.</li>
     <li>📫 @naman07gaur@gmail.com</li>
     <li>⚡ Fun fact: Coding has over 700 languages</li>    
     <li>📙 Check out my <a href="https://github.com/naman07gaur/my-portfolio" target="_blank" rel="noreferrer">resume</a>.</li> 
     <li>📙 Check out my <a href="https://my-portfolio-nu-rouge.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li> 
-    <li>🧑‍💻 Check out my coding profiles -
+<!--     <li>🧑‍💻 Check out my coding profiles -
       <ul>
         <li> 
             <a href="https://auth.geeksforgeeks.org/user/decode_aashish/practice" target=”_blank”>GFG</a></li> 
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
         <li>
             <a href="https://www.codechef.com/users/aashish_dhiman" target=”_blank”>Codechef</a></li> 
         </li>
-        </li>
-      </ul>
+        </li> -->
+<!--       </ul> -->
   </ul>
 </div>
