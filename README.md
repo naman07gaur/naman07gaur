@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
     <li>👀 I’m a DevOps enthusiast.</li>
     <li>📖 I’m currently learning Kubernetes.</li>
     <li>📫 @naman07gaur@gmail.com</li>
-    <li>⚡ Fun fact: Coding has over 700 languages</li>    
+<!--     <li>⚡ Fun fact: Coding has over 700 languages</li>     -->
     <li>📙 Check out my <a href="https://github.com/naman07gaur/my-portfolio" target="_blank" rel="noreferrer">resume</a>.</li> 
     <li>📙 Check out my <a href="https://my-portfolio-nu-rouge.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li> 
 <!--     <li>🧑‍💻 Check out my coding profiles -
